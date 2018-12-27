@@ -13,8 +13,13 @@
 - Marks in Chemistry >=40
 - Total marks in all three subjects >= 200
 
-** or **
+**or**
 
 - Total in Mathematics and Physics >= 150
 
 Given the marks in the three subjects, write a program to process the application to list the eligible candidates.
+
+## Task Completion
+
+- [x] Question 1 - Solution in `program1.c` file
+- [ ] Question 2 - (tbd by students)

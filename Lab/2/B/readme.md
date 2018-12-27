@@ -47,3 +47,10 @@
    ![Quadratic Equation](https://raw.githubusercontent.com/luzan/C-Classroom-2018/master/Lab/2/B/FV3F5VEIJBPQGGP.LARGE.jpg)
 
    The program should request the user to input the values of a, b, c and output root1 and root2.
+
+## Task Completion
+
+- [x] Question 1 - Solution in `program1.c` file
+- [x] Question 2 - Solution in `program2.c` file
+- [ ] Question 3 (tbd by students)
+- [x] Question 4 - Solution in `program4.c` file

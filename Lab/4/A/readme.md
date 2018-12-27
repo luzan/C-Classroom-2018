@@ -37,3 +37,9 @@ Menu
 3. exit from program
 
 and to perform task as per user’s choice repeatedly until his/her choice is to exit
+
+## Task Completion
+
+- [x] Question 1 - Solution in `program1.c` file
+- [x] Question 2 - Solution in `program2.c` file
+- [ ] Bonus Question - (tbd by students)
