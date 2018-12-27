@@ -14,6 +14,7 @@
    ```
 
 2. Given an integer number for 5 digits, write a program that displays the number as follows:
+
    First Line : all digits
    Second Line : all except first digit
    Third Line : all except first two digit
