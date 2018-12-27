@@ -19,6 +19,7 @@ Third Floor: 450 x 15
 Total 27,438
 
 Pokhara municipality is planning to make a system where it could calculate tax for similar buildings that are built in an area worth 30 Lakhs. Here are new tax regulations formulated by Pokhara Municipality.
+![Tax Rules](https://raw.githubusercontent.com/luzan/C-Classroom-2018/master/Project/Land%20Tax/images/12.png)
 
 To create this system here are Inputs you need to collect from any citizen who is at Pokhara Municipal Office to pay their taxes.
 
