@@ -1,3 +1,5 @@
+## LAB 5 - Group A
+
 1. Write a C Program to read a one-dimensional array using runtime initialization, sort the number in ascending order and display sorted numbers.
    Hint.
 

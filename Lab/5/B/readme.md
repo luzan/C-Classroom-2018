@@ -1,4 +1,4 @@
-## LAB 4 - Group B
+## LAB 5 - Group B
 
 1. Write a program to read values of 3x3 order matrix then computer the sum of even elements and sum of odd elements.
 
