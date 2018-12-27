@@ -1,3 +1,7 @@
+/** 
+Array example - initializing 2-by-3 array on runtime
+and printing array elements
+**/
 #include<stdio.h>
 
 int main(){

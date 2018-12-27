@@ -1,3 +1,6 @@
+/**
+Multi-dimensional Array initialization in Compile Time
+**/
 #include<stdio.h>
 
 int main(){
