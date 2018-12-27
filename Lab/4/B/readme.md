@@ -4,20 +4,20 @@
 
 ```
 1
-1	  2
-1	  2    3
-1   2    3    4
+1    2
+1    2    3
+1    2    3    4
 ```
 
 2. An electricity board charges according to the following rates.
 
-For the first 100 units -- Rs. 40 per unit
+&nbsp;&nbsp;&nbsp;&nbsp;For the first 100 units -- Rs. 40 per unit
 
-For the next 200 units -- Rs. 50 per unit
+&nbsp;&nbsp;&nbsp;&nbsp;For the next 200 units -- Rs. 50 per unit
 
-For beyond 300 units -- Rs. 60 per unit
+&nbsp;&nbsp;&nbsp;&nbsp;For beyond 300 units -- Rs. 60 per unit
 
-All users are also charged with meter charge, which is equal to Rs. 50. Write a program to read number of units consumed and print out the total charges.
+&nbsp;&nbsp;&nbsp;&nbsp;All users are also charged with meter charge, which is equal to Rs. 50. Write a program to read number of units consumed and print out the total charges.
 
 ** Bonus Question **
 Write a program to display the following menu:
