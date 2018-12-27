@@ -16,10 +16,15 @@
 2. Given an integer number for 5 digits, write a program that displays the number as follows:
 
    First Line : all digits
+
    Second Line : all except first digit
+
    Third Line : all except first two digit
+
    …. …….
+
    Last line : last digit
+
    For example, the number 12345 will be displayed as
 
    ```
@@ -36,7 +41,7 @@
 
 4. An equation of the form
 
-   > ax2 + bx + c = 0
+   > ax<sup>2</sup> + bx + c = 0
 
    is known as the quadratic equation. The values of x that satisfy the equation are known as the roots of the equation. A quadratic equation has two roots which are given by the following two formulae.
    ![Quadratic Equation](https://raw.githubusercontent.com/luzan/C-Classroom-2018/master/Lab/2/B/FV3F5VEIJBPQGGP.LARGE.jpg)
