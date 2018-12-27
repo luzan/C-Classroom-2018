@@ -18,7 +18,7 @@ X = 6, Y = 8, Z = 5
 Note: don’t use more than 4 variables.
 
 2. The total distance travelled by a vehicle in t seconds is given by
-   > distance = ut + (at<sup>2<sup>)/2
+   > distance = ut + (at<sup>2</sup>)/2
 
 &nbsp;&nbsp;&nbsp;&nbsp;Where `u` is the initial velocity, `a` is the acceleration.
 &nbsp;&nbsp;&nbsp;&nbsp;Write a program to evaluate the distance travelled at regular intervals of time, given the values of `u` and `a`.
