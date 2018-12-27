@@ -8,13 +8,13 @@
 **Question no. 2**
 2.	Admission to a professional course is subject to the following conditions:
 
-    - Marks in Mathematics >= 60
-    - Marks in Physics >= 50
-    - Marks in Chemistry >=40
-    - Total marks in all three subjects >= 200
+- Marks in Mathematics >= 60
+- Marks in Physics >= 50
+- Marks in Chemistry >=40
+- Total marks in all three subjects >= 200
 
-    ** or **
+** or **
 
-	  - Total in Mathematics and Physics >= 150
+- Total in Mathematics and Physics >= 150
 
-     Given the marks in the three subjects, write a program to process the application to list the eligible candidates.
+Given the marks in the three subjects, write a program to process the application to list the eligible candidates.
